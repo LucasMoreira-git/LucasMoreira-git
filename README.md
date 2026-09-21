@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=Lucas%20Moreira&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas&descAlignY=60" alt="Banner de perfil de Lucas Moreira" width="100%" />
 </p>
 
-<p align="center"><em>Estudiante de Ingeniería en Sistemas • Aprendiendo Java y POO • Buscando mi primera pasantía</em></p>
+<p align="center"><em> Aprendiendo Java y POO • Buscando mi primera pasantía</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Buscando%20pasant%C3%ADa-6C63FF?style=for-the-badge" alt="Badge Open to Work" />
   <a href="https://www.linkedin.com/in/lucas-moreira-880525429">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Moreira-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge de LinkedIn de Lucas Moreira" />
   </a>
-  <a href="mailto:[ESCRIBÍ TU MAIL ACÁ]">
+  <a href="mailto:[lucasfmoreira2006@gmail.com]">
     <img src="https://img.shields.io/badge/Email-%5BESCRIB%C3%8D%20TU%20MAIL%20AC%C3%81%5D-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge de correo electrónico" />
   </a>
 </p>
@@ -52,7 +52,6 @@ Tengo nivel de inglés **intermedio (B2)** y me destaco por el trabajo en equipo
 ## Short English version
 Hi! I'm **Lucas Moreira**, a 3rd-year **Systems Engineering** student at UTN (Mendoza, Argentina).  
 I'm looking for my **first internship or junior opportunity** and I'm available **full time**.  
-I’m currently learning Java OOP, systems design (UML/GRASP), semantic HTML5, databases, and inferential statistics.  
+I’m currently learning Java OOP, systems design (UML/GRASP), semantic HTML5 and databases
 My English level is **B2 (intermediate)**.  
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/lucas-moreira-880525429) or [GitHub](https://github.com/LucasMoreira-git).  
-<!-- COMPLETAR: agregar email también en esta sección -->
