@@ -47,7 +47,7 @@ Tengo nivel de inglés **intermedio (B2)** y me destaco por el trabajo en equipo
 
 ---
 
-**Gracias por pasar por mi perfil.** Si buscás una persona con ganas de aprender, compromiso y buena predisposición, ¡hablemos!
+**Gracias por pasar por mi perfil.** Si buscás una persona con ganas de aprender, compromiso y buena predisposición, estoy siempre dispuesto a sumar valor a nuevos proyectos y seguir creciendo profesionalmente.
 
 ## Short English version
 Hi! I'm **Lucas Moreira**, a 3rd-year **Systems Engineering** student at UTN (Mendoza, Argentina).  
