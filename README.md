@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## Perfil en 30 segundos
+## Perfil
 Soy estudiante avanzado de Ingeniería en Sistemas (UTN, Mendoza), con foco en **Análisis y Diseño de Sistemas**.  
 Me preparo para aportar valor en equipos que necesiten **levantamiento de requerimientos**, **modelado UML**, **documentación funcional/técnica** y **coordinación de tareas** con enfoque en resultados.
 
