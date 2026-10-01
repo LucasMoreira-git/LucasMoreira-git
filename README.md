@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=Lucas%20Moreira&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas&descAlignY=60" alt="Banner de perfil de Lucas Moreira" width="100%" />
 </p>
 
-<p align="center"><em>Análisis y Diseño de Sistemas • Gestión de Proyectos • Open to Work</em></p>
+<p align="center"><em>Análisis y Diseño de Sistemas • Gestión de Proyectos • Base de datos</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Pasant%C3%ADa%20%7C%20Junior-6C63FF?style=for-the-badge" alt="Open to Work" />
