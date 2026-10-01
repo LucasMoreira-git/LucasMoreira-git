@@ -14,9 +14,9 @@
   <a href="https://www.linkedin.com/in/lucas-moreira-880525429">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Moreira-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lucasfmoreira2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasfmoreira2006@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contacto-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
 ## Perfil
