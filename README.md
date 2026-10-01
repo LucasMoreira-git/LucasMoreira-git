@@ -5,7 +5,7 @@
 <p align="center"><em>Análisis y Diseño de Sistemas • Gestión de Proyectos • Base de datos</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Pasant%C3%ADa%20%7C%20Junior-6C63FF?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/B%C3%BAsqueda-Pasant%C3%ADa%20%7C%20Junior-6C63FF?style=for-the-badge" alt="Búsqueda laboral" />
   <img src="https://img.shields.io/badge/Disponibilidad-Full%20Time-6C63FF?style=for-the-badge" alt="Disponibilidad Full Time" />
   <img src="https://img.shields.io/badge/Ingl%C3%A9s-B2-6C63FF?style=for-the-badge" alt="Nivel de inglés B2" />
 </p>
