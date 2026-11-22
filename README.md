@@ -30,25 +30,10 @@ Me preparo para aportar valor en equipos que necesiten **levantamiento de requer
 
 ## Herramientas y base técnica
 <p align="center">
-  <img src="https://img.shields.io/badge/UML-6C63FF?style=for-the-badge" alt="UML" />
-  <img src="https://img.shields.io/badge/An%C3%A1lisis%20de%20Requerimientos-6C63FF?style=for-the-badge" alt="Análisis de Requerimientos" />
-  <img src="https://img.shields.io/badge/Documentaci%C3%B3n%20T%C3%A9cnica-6C63FF?style=for-the-badge" alt="Documentación Técnica" />
-  <img src="https://img.shields.io/badge/Gesti%C3%B3n%20de%20Proyectos-6C63FF?style=for-the-badge" alt="Gestión de Proyectos" />
+  <img src="https://img.shields.io/badge/UML-6C63FF?style=for-the-badge&logo=uml&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/An%C3%A1lisis%20de%20Requerimientos-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Análisis de Requerimientos" />
+  <img src="https://img.shields.io/badge/Documentaci%C3%B3n%20T%C3%A9cnica-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Documentación Técnica" />
+  <img src="https://img.shields.io/badge/Gesti%C3%B3n%20de%20Proyectos-6C63FF?style=for-the-badge&logo=trello&logoColor=white" alt="Gestión de Proyectos" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Git y GitHub" />
   <img src="https://img.shields.io/badge/Bases%20de%20Datos-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white" alt="Bases de Datos" />
 </p>
-
-## Actividad en GitHub
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LucasMoreira-git&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=LucasMoreira-git&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-    <img src="https://streak-stats.demolab.com?user=LucasMoreira-git&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=00000000" alt="Racha de contribuciones de Lucas Moreira" width="98%" />
-  </picture>
-</p>
-
----
-
-## Short English version
-Systems Engineering student focused on **Systems Analysis & Design** and **Project Management**.  
-Open to internship/junior opportunities to contribute in requirements analysis, UML modeling, and technical documentation.
