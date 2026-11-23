@@ -25,8 +25,10 @@ Me preparo para aportar valor en equipos que necesiten **levantamiento de requer
 
 ## Foco profesional
 - **Análisis de Sistemas:** relevamiento, especificación y mejora de procesos
-- **Diseño de Sistemas:** casos de uso, clases, secuencia y enfoque GRASP
+- **Diseño de Sistemas:** casos de uso, clases, secuencia y enfoque GRASP/GOF
 - **Gestión de Proyectos:** planificación, seguimiento, priorización y trabajo colaborativo
+- **Desarrollo de software:** implementación limpia, pruebas, integración continua y mantenimiento evolutivo
+
 
 ## Herramientas y base técnica
 <p align="center">
